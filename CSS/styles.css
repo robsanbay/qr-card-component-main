@@ -11,4 +11,24 @@ body {
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
+  background-color: #fff;
+  padding: 20px 20px 40px 20px;
+  width: 300px;
+  border-radius: 20px;
+}
+
+.main-wrapper img {
+  width: 100%;
+  border-radius: 13px;
+}
+
+.main-wrapper h2 {
+  text-align: center;
+  color: hsl(218, 44%, 22%);
+}
+.main-wrapper p {
+  text-align: center;
+  font-size: 1.063em;
+  line-height: 1.563em;
+  color: hsl(220, 15%, 55%);
 }
