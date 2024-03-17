@@ -1,4 +1,14 @@
 body {
   background-color: hsl(212, 45%, 89%);
-  font-family: arial, sans-serif;
+  font-family: "Outfit", arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.main-wrapper {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
 }
